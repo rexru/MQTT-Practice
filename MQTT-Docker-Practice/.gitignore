@@ -1,0 +1,13 @@
+mosquitto/data/
+mosquitto/log/
+
+influxdb/data/
+
+node_modules/
+npm-debug.log*
+
+.dockerignore
+
+.DS_Store
+.vscode/
+.env
